@@ -1,2 +1,2 @@
 line 1 in git
-
+insert line 2
